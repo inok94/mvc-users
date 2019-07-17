@@ -1,0 +1,19 @@
+{
+    "name": "inok94/mvc-users.loc",
+    "description": "Build MVC pattern in php. Issues: Register new user, show list all registered users and CRUD for user.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Inok94",
+            "email": "rodiknikolaev@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": ""
+        }
+    }
+}
